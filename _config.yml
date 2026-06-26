@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://eizent.github.io/collection-builder-sandbox/
+url: https://eizent.github.io/book-club/
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/eizent/collection-builder-sandbox
+source-code: https://github.com/eizent/book-club
 
 ##########
 # SITE SETTINGS
